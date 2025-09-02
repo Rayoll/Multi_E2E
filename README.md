@@ -4,7 +4,7 @@
 
 This is an official implementation of Multi-E2E framework.
 
-![Multi-E2E_visual_encoder](./assets/Multi-E2E_visual_encoder.png)
+![Multi-E2E_visual_encoder](assets/Multi-E2E_visual_encoder.png)
 
 #### Requirements
 
@@ -40,4 +40,5 @@ The ``data`` directory contains samples required to run the code. The informatio
 -------
 
 If you use Multi-E2E in your research, please cite our paper.
+
 
